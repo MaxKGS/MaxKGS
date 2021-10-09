@@ -3,3 +3,14 @@
   <a href="https://www.instagram.com/enzo.kgs/">Instagram</a> •
   <a href="https://twitter.com/max__kgs">Twitter</a>
 </p>
+<p align="center">
+ ✨ I'm a student on a IT Technician course with the wish to study Mechatronic Engineer!✨
+ <p align="center">
+ ✨As much as im new to all that stuff, trying my best here! ✨
+</p>
+
+- 😄 My Pronouns: They/them
+- 📫 How to reach me: [maxineklein0909@gmail.com](mailto:maxineklein0909@gmail.com)
+- ⚡ Fun fact: I'm really into Wicca stuff, if u are also a tech witch, call me!
+
+<!--
