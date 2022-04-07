@@ -4,7 +4,7 @@
 </div>
 <p align="center">
   <a href="https://www.instagram.com/max.the.virgo/">Instagram</a> •
-  <a href="https://twitter.com/max__kgs">Twitter</a>
+  <a href="https://twitter.com/maxine_kgs">Twitter</a>
 </p>
 <p align="center">
  ✨ I'm a student on a IT Technician course with the wish to study Mechatronic Engineer!✨
