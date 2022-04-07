@@ -12,7 +12,7 @@
  ✨As much as im new to all that stuff, trying my best here! ✨
 </p>
 
-- 😄 My Pronouns: They/them
+- 😄 My Pronouns: any!
 - 📫 How to reach me: [maxineklein0909@gmail.com](mailto:maxineklein0909@gmail.com)
 - ⚡ Fun fact: I'm really into Wicca stuff, if u are also a tech witch, call me!
 
