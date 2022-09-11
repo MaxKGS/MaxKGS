@@ -14,7 +14,7 @@
 
 - 😄 My Pronouns: They/Them!
 - 📫 How to reach me: [maxineklein0909@gmail.com](mailto:maxineklein0909@gmail.com)
-- ⚡ Fun fact: I'm really into Wicca stuff, if u are also a tech witch, call me!
+- ⚡ Fun fact: I'm really into DnD, if u are also play it, call me!
 
 <!--
 https://github.com/MaxKGS/MaxKGS/blob/main/tumblr_nqxbreqwLO1u9grhgo3_500.gif
