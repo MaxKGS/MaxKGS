@@ -1,6 +1,6 @@
-<h3 align="center">👋 Hey! I'm Maxine Klein and welcome to my domain!</h3>
+<h3 align="center">👋 Hey! I'm Maxine Klein and welcome to my profile!</h3>
 <div align="center">
-	<img src="https://github.com/MaxKGS/MaxKGS/blob/main/tumblr_nqxbreqwLO1u9grhgo3_500.gif">
+	<img src="https://images.unsplash.com/photo-1470115636492-6d2b56f9146d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1600&h=500&q=60">
 </div>
 <p align="center">
   <a href="https://www.instagram.com/max.the.virgo/">Instagram</a> •
