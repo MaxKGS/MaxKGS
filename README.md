@@ -7,7 +7,7 @@
   <a href="https://twitter.com/maxine_kgs">Twitter</a>
 </p>
 <p align="center">
- ✨ I'm a student on a IT Technician course with the wish to study Mechatronic Engineer!✨
+ ✨ I'm a student on a IT Technician course with the wish to study Computer Science!✨
  <p align="center">
  ✨As much as im new to all that stuff, trying my best here! ✨
 </p>
