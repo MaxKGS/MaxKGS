@@ -1,20 +1,32 @@
-<h3 align="center">👋 Hey! I'm Maxine Klein and welcome to my profile!</h3>
-<div align="center">
-	<img src="https://images.unsplash.com/photo-1470115636492-6d2b56f9146d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1600&h=500&q=60">
-</div>
-<p align="center">
-  <a href="https://www.instagram.com/max.the.virgo/">Instagram</a> •
-  <a href="https://twitter.com/maxine_kgs">Twitter</a>
-</p>
-<p align="center">
- ✨ I'm a student on a IT Technician course with the wish to study Computer Science!✨
- <p align="center">
- ✨As much as im new to all that stuff, trying my best here! ✨
-</p>
+<table>
+    <tr>
+        <!-- Ajuste da largura da célula -->
+        <td style="width: 70%;">
+            <!-- Ajuste da largura da imagem -->
+            <img src" style="width:100%; border: none;"/>
+        </td>
+        <td style="width: 30%; vertical-align: middle;">
+            <p style="font-family: monospace; font-size: 80px;">    
+                
+       Maxine Klein
+    
+</p>                                                                                                                            
+                                                                                                  
+                                                                                                    
+        
+    about me ♥︎
 
-- 😄 My Pronouns: She/They!
-- 📫 How to reach me: [maxineklein0909@gmail.com](mailto:maxineklein0909@gmail.com)
-- ⚡ Fun fact: I'm really into DnD, if u are also play it, call me!
-
-<!--
-https://github.com/MaxKGS/MaxKGS/blob/main/tumblr_nqxbreqwLO1u9grhgo3_500.gif
+    
+    │▸ she/her - brazilian - (pt/br + english)
+    │   ┗ ▸ frontend, database
+    │▸ knowledge
+        ┗ ▸  javascript
+          ▸  html & css
+          ▸  mongodb
+          ▸  mysql
+          ▸  english
+    │▸ learning
+        ┗ ▸  java
+          ▸  python
+          ▸  cybersecurity
+          ▸  network
