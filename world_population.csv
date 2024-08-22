@@ -1,84 +1,84 @@
 name,code,pop
-Antigua and Barbuda,ATG,83039
-Algeria,DZA,32854159
-Azerbaijan,AZE,8352021
-Albania,ALB,3153731
-Armenia,ARM,3017661
-Angola,AGO,16095214
-American Samoa,ASM,64051
-Argentina,ARG,38747148
-Australia,AUS,20310208
-Bahrain,BHR,724788
-Barbados,BRB,291933
-Bermuda,BMU,64174
-Bahamas,BHS,323295
-Bangladesh,BGD,15328112
-Belize,BLZ,275546
-Bosnia and Herzegovina,BIH,3915238
-Bolivia,BOL,9182015
-Burma,MMR,47967266
-Benin,BEN,8490301
-Solomon Islands,SLB,472419
-Brazil,BRA,2
-Bulgaria,BGR,7744591
-Brunei Darussalam,BRN,373831
-Canada,CAN,32270507
-Cambodia,KHM,13955507
-Sri Lanka,LKA,19120763
-Congo,COG,3609851
-Democratic Republic of the Congo,COD,58740547
-Burundi,BDI,7858791
-China,CHN,1312978855
-Afghanistan,AFG,25067407
-Bhutan,BTN,637013
-Chile,CHL,16295102
-Cayman Islands,CYM,45591
-Cameroon,CMR,17795149
-Chad,TCD,10145609
-Comoros,COM,797902
-Colombia,COL,4494579
-Costa Rica,CRI,4327228
-Central African Republic,CAF,4191429
-Cuba,CUB,11259905
-Cape Verde,CPV,506807
-Cook Islands,COK,13984
-Cyprus,CYP,836321
-Denmark,DNK,5416945
-Djibouti,DJI,804206
-Dominica,DMA,67827
-Dominican Republic,DOM,9469601
-Ecuador,ECU,13060993
-Egypt,EGY,72849793
-Ireland,IRL,4143294
-Equatorial Guinea,GNQ,484098
-Estonia,EST,1344312
-Eritrea,ERI,4526722
-El Salvador,SLV,6668356
-Ethiopia,ETH,78985857
-Austria,AUT,8291979
-Czech Republic,CZE,10191762
-French Guiana,GUF,192099
-Finland,FIN,5246004
-Fiji,FJI,828046
-Falkland Islands (Malvinas),FLK,2975
-Micronesia, Federated States of,FSM,110058
-French Polynesia,PYF,255632
-France,FRA,60990544
-Gambia,GMB,1617029
-Gabon,GAB,1290693
-Georgia,GEO,4473409
-Ghana,GHA,2253501
-Grenada,GRD,105237
-Greenland,GRL,57475
-Germany,DEU,82652369
-Guam,GUM,16857
-Greece,GRC,11099737
-Guatemala,GTM,12709564
-Guinea,GIN,9002656
-Guyana,GUY,739472
-Haiti,HTI,9296291
-Honduras,HND,683411
-Croatia,HRV,455149
+Antigua and Barbuda,ATG,0
+Algeria,DZA,0
+Azerbaijan,AZE,0
+Albania,ALB,0
+Armenia,ARM,0
+Angola,AGO,0
+American Samoa,ASM,0
+Argentina,ARG,0
+Australia,AUS,0
+Bahrain,BHR,0
+Barbados,BRB,0
+Bermuda,BMU,0
+Bahamas,BHS,0
+Bangladesh,BGD,0
+Belize,BLZ,0
+Bosnia and Herzegovina,BIH,0
+Bolivia,BOL,0
+Burma,MMR,0
+Benin,BEN,0
+Solomon Islands,SLB,0
+Brazil,BRA,240
+Bulgaria,BGR,0
+Brunei Darussalam,BRN,0
+Canada,CAN,132
+Cambodia,KHM,0
+Sri Lanka,LKA,0
+Congo,COG,0
+Democratic Republic of the Congo,COD,0
+Burundi,BDI,0
+China,CHN,26
+Afghanistan,AFG,0
+Bhutan,BTN,0
+Chile,CHL,3
+Cayman Islands,CYM,0
+Cameroon,CMR,0
+Chad,TCD,0
+Comoros,COM,0
+Colombia,COL,6
+Costa Rica,CRI,0
+Central African Republic,CAF,0
+Cuba,CUB,4
+Cape Verde,CPV,0
+Cook Islands,COK,0
+Cyprus,CYP,0
+Denmark,DNK,8
+Djibouti,DJI,0
+Dominica,DMA,0
+Dominican Republic,DOM,0
+Ecuador,ECU,0
+Egypt,EGY,0
+Ireland,IRL,0
+Equatorial Guinea,GNQ,0
+Estonia,EST,0
+Eritrea,ERI,0
+El Salvador,SLV,0
+Ethiopia,ETH,0
+Austria,AUT,0
+Czech Republic,CZE,0
+French Guiana,GUF,0
+Finland,FIN,0
+Fiji,FJI,0
+Falkland Islands (Malvinas),FLK,0
+Micronesia, Federated States of,FSM,0
+French Polynesia,PYF,0
+France,FRA,87
+Gambia,GMB,0
+Gabon,GAB,0
+Georgia,GEO,0
+Ghana,GHA,0
+Grenada,GRD,0
+Greenland,GRL,0
+Germany,DEU,85
+Guam,GUM,0
+Greece,GRC,0
+Guatemala,GTM,0
+Guinea,GIN,0
+Guyana,GUY,0
+Haiti,HTI,0
+Honduras,HND,0
+Croatia,HRV,0
 Hungary,HUN,10086387
 Iceland,ISL,295732
 India,IND,1134403141
