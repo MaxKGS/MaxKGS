@@ -18,7 +18,7 @@
 
     
     │▸ she/her - brazilian - (pt/br + english)
-    │   ┗ ▸ frontend, database
+    │   ┗ ▸ fullstack, database
     │▸ knowledge
         ┗ ▸  javascript
           ▸  html & css
@@ -27,6 +27,6 @@
           ▸  english
     │▸ learning
         ┗ ▸  java
-          ▸  python
+          ▸  angular
           ▸  cybersecurity
           ▸  network
