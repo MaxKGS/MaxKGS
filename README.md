@@ -5,12 +5,12 @@
 <h2 style="font-family: monospace; font-size: 80px;">  Sobre Mim </h2>
 
 💻 &nbsp;Desenvolvedora Backend Java <br>
-⚡ &nbsp;Bacharel em Engenharia Elétrica    
+⚡ &nbsp;Bacharel em Engenharia Elétrica‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎     
 
 <h2 style="font-family: monospace; font-size: 80px;">  Experiência Profissional </h2>
 
 👨‍🏫 &nbsp;[Jul/2024 - Dez/2024] Bolsista no site Alumni IFRS  <br>
-👨‍🏫 &nbsp;[Mar/2023 - Dez/2023] Bolsista no RoboLab Restinga
+👨‍🏫 &nbsp;[Mar/2023 - Dez/2023] Bolsista no RoboLab Restinga‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 <br>
 </td>
@@ -34,20 +34,18 @@
 
 ## 🛠️ Skills
 
-### :wrench: Tools and environments
-
-<!-- GIT -->
-<a href="#">
-      <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-</a>
-
-
 ### :computer: Back-End Development
 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![postgress](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### :wrench: Tools and environments
+
+<!-- GIT -->
+<a href="#">
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+</a>
 
 </p>                   
 </tr>
