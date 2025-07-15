@@ -4,8 +4,8 @@
 <td style="width: 50%; vertical-align: left;">
 <h2 style="font-family: monospace; font-size: 80px;">  Sobre Mim </h2>
 
-💻 &nbsp;Desenvolvedora Backend Java <br>
-⚡ &nbsp;Bacharel em Engenharia Elétrica‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎     
+💻 Desenvolvedora Backend Java <br>
+⚡ Bacharel em Engenharia Elétrica‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎     
 
 <h2 style="font-family: monospace; font-size: 80px;">  Experiência Profissional </h2>
 
@@ -22,8 +22,8 @@
 
 <h2 style="font-family: monospace; font-size: 80px;">  Experiência Profissional </h2>
 
-👨‍🏫 &nbsp;[Jul/2024 - Dez/2024] Scholarship Holder of Alumni IFRS website  <br>
-👨‍🏫 &nbsp;[Mar/2023 - Dez/2023] Scholarship Holder of RoboLab Restinga
+👨‍🏫 &nbsp;[Jul/2024 - Dec/2024] Scholarship Holder of Alumni IFRS website  <br>
+👨‍🏫 &nbsp;[Mar/2023 - Dec/2023] Scholarship Holder of RoboLab Restinga
 
 <br>
 </td>
