@@ -10,7 +10,7 @@
 <h2 style="font-family: monospace; font-size: 80px;">  Experiência Profissional </h2>
 
 👨‍🏫 &nbsp;[Jul/2024 - Dez/2024] Bolsista no site Alumni IFRS  <br>
-👨‍🏫 &nbsp;[Mar/2023 - Dez/2023] Bolsista no RoboLab Restinga‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+👨‍🏫 &nbsp;[Mar/2023 - Dez/2023] Bolsista no RoboLab Restinga‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
 
 <br>
 </td>
