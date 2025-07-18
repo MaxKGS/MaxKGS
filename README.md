@@ -1,52 +1,57 @@
-<h1 style="font-family: monospace; font-size: 80px;">  Maxine Klein </h1> 
-<table style="background-color: transparent; border-color: transparent">
+###
+
+<h1 align="left">💜 Bem-Vindo ao meu GitHub 💜</h1>
+
+###
+
+<p align="left">📚 Técnica em Informática pelo IFRS - Campus Restinga<br>📚 Graduanda em Engenharia Elétrica na UFRGS<br>☕ Mesclando Java e Automatos! (No caso, tentando) </p>
+
+###
+
+<h2 align="left">Lingugens que eu uso/sei!</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"  />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+    <img width="12" />
+</div>
+
+###
+
+<h2 align="left">Minhas atividades!</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=maxkgs&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxkgs&locale=en&hide_title=false&layout=normal&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+<h2> Formas de contato!</h2>
+
+<div align="left">
+  <a href="www.linkedin.com/in/maxineklein" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
     
-<td style="width: 50%; vertical-align: left;">
-<h2 style="font-family: monospace; font-size: 80px;">  Sobre Mim </h2>
+  <a href="https://www.instagram.com/maxine.kgs/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+    
+  <a href="http://lattes.cnpq.br/2744874916943147" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
-💻 Desenvolvedora Backend Java <br>
-⚡ Bacharel em Engenharia Elétrica‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎     
-
-<h2 style="font-family: monospace; font-size: 80px;">  Experiência Profissional </h2>
-
-👨‍🏫 &nbsp;[Jul/2024 - Dez/2024] Bolsista no site Alumni IFRS  <br>
-👨‍🏫 &nbsp;[Mar/2023 - Dez/2023] Bolsista no RoboLab Restinga‎‎ ‎ ‎ ‎ ‎ ‎
-
-<br>
-</td>
-<td style="width: 50%; vertical-align: right;">  
-<h2 style="font-family: monospace; font-size: 80px;">  About Me </h2>
-
-💻 &nbsp;Backend Java Developer <br>
-⚡ &nbsp;Bachelor Degree in Eletrical Engineer
-
-<h2 style="font-family: monospace; font-size: 80px;">  Experiência Profissional </h2>
-
-👨‍🏫 &nbsp;[Jul/2024 - Dec/2024] Scholarship Holder of Alumni IFRS website  <br>
-👨‍🏫 &nbsp;[Mar/2023 - Dec/2023] Scholarship Holder of RoboLab Restinga
-
-<br>
-</td>
-</tr>
-<tr>
-<td style="width: 110%; vertical-align: center;" colspan="2";>
-<p style="font-family: monospace; font-size: 80px;">    
-
-## 🛠️ Skills
-
-### :computer: Back-End Development
-
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![postgress](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### :wrench: Tools and environments
-
-<!-- GIT -->
-<a href="#">
-      <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-</a>
-
-</p>                   
-</tr>
-</td>    
+###
