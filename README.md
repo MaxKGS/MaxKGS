@@ -1,47 +1,63 @@
-<h1 align="left">💜 Bem-Vindo ao meu GitHub 💜</h1>
+<h1 align="center">Olá! Sou a Maxine!</h1>
 
 ###
 
-<h4 align="left">📚 Técnica em Informática pelo IFRS - Campus Restinga<br>📚 Graduanda em Engenharia Elétrica na UFRGS</h4>
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-###
+#   Sobre mim
 
-<h2 align="left">Linguagens que eu uso/sei!</h2>
+Estudante de Engenharia da Computação conectando o mundo físico ao digital através de IoT e IA, transformando pesquisa científica em soluções reais pelo código.
 
-###
+- 🎓 Graduanda em Engenharia da Computação (1/10)
+- 💻 Projetos acadêmicos e práticos  
+- 🧩 Interesse em internet das coisas e inteligencia artifical
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maxkgs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+---
 
-<h2 align="left">Formas de contato!</h2>
-
-###
+#   Conecte-se comigo
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/maxineklein" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/maxineklein/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=brown&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/maxine.kgs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="mailto:maxineklein0909@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
 
-###
+</td>
+
+<td width="50%" valign="top">
+
+#   Tecnologias & Ferramentas
+
+<div align="left">
+
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40"/>
+  <img width="12" />   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+
+  
+</div>
+
+---
+
+#   Certificações
+
+
+
+</div>
+</td>
+</tr>
+</table>
+</div>
+
